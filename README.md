@@ -1,4 +1,4 @@
-## Email file .env
+## File .env
 
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.gmail.com
